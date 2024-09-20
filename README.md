@@ -17,7 +17,7 @@ Ha Van Thy</a></h1>
 <p>🤔 I’m looking for help with code!</p>
 </li>
 <li>
-<p>💬 Ask me about <strong>.NET &amp; </strong></p>
+<p>💬 Ask me about <strong>.NET &amp; Node.js</strong></p>
 </li>
 <li>
 <p>📫 How to reach me <strong><a href="mailto:thyha221@gmail.com">thyha221@gmail.com</a></strong></p>
