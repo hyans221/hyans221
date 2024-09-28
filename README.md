@@ -25,12 +25,12 @@ Ha Van Thy</a></h1>
 </ul>
 <h3 > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <div class="icons-social" >
-    <a style="margin-left: 10px;" target="_blank" href="">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/hyans221/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
     </a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/hyans221">
 		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
     </a>
-        <a style="margin-left: 10px;" target="_blank" href="">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/_hyans_/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 </div>
